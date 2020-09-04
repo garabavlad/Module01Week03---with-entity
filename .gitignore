@@ -72,6 +72,7 @@ artifacts/
 
 # Chutzpah Test files
 _Chutzpah*
+.vscode/
 
 # Visual C++ cache files
 ipch/
